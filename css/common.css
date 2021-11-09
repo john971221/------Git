@@ -1,3 +1,9 @@
+@font-face{
+    font-family: 'NotoSerifKR';
+    src: url('./fonts/NotoSerifKR.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
 
 * {
     margin: 0;
