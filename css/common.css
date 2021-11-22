@@ -1,9 +1,11 @@
-@font-face{
+/*@font-face{
     font-family: 'NotoSerifKR';
     src: local('NotoSerifKR') url('./fonts/NotoSerifKR.otf') format('otf');
     font-weight: normal;
     font-style: normal;
-}
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400&display=swap');
 
 * {
     margin: 0;
@@ -224,7 +226,7 @@ header h2:hover .hover_2 {
 
 #full_menu ul li span a {
     color: transparent;
-    -webkit-text-stroke: 2px #fff;
+    -webkit-text-stroke: 1px #fff;
     text-decoration: none;
 
 }
