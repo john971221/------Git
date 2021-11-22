@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'NotoSerifKR';
-    src: url('./fonts/NotoSerifKR.otf') format('otf');
+    src: url('./fonts/NotoSerifKR.otf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
